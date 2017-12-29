@@ -1,28 +1,8 @@
-#mission {
-  background: rgba(32,35,41,0.9);
-  color: #ddd;
-}
-body{
-  padding-top: 70px;
-}
-.btn-twitter{
-  background: #00acee;
-  border-color: #009ad5;
-}
-
-.btn-facebook{
-  background: #4868ac;
-  border-color: #314773;
-}
-
-.btn-pinterest{
-  background: #00acee;
-  border-color: #009ad5;
-}
-#socialbuttons button{
-  color: white;
-}
 .jumbotron {
-  background-image: url(../images/fruit-and-veg.jpg);
+  background-image: url(../images/codelikeagirl_lab.jpg);
   background-size: cover;
+}
+.snippet {
+  width: 180px;
+  height: 180px;
 }
