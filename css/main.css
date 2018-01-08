@@ -6,3 +6,9 @@
   width: 180px;
   height: 180px;
 }
+.jumbotron small {
+	color: black;
+}
+.jumbotron h1{
+	color: red;
+}
